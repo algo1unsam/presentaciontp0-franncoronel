@@ -1,6 +1,5 @@
 # Presentación
 
-- Suban la presentación a Git.
 - Suban una foto.
 - Suban los nuevos cambios.
 - Compartan el link por discord
@@ -15,4 +14,8 @@ Buenas! Soy Francisco, tengo 22 años y este es mi tercer año en la UNSAM. Me i
 
 Foto de Lili y yo:
 
+![IMG_20211214_144439_296](https://github.com/algo1unsam/presentaciontp0-franncoronel/assets/81192168/18b5710d-f1b9-4346-9245-ab09f4ff41bb)
+
 Foto de lo mejor que cociné:
+
+![IMG_20210724_193218](https://github.com/algo1unsam/presentaciontp0-franncoronel/assets/81192168/770abc29-bddb-489a-a696-b9f5d362fe28)
